@@ -1,0 +1,5 @@
+Please see the LICENSE file.
+
+NachoRoot is a root exploit for the ASUS Transformer Prime released on 01/03/2011. It was held closed source until 01/05/2011.
+I had intented to wait until ICS was shipped to release source, but on 01/04/2011 someone posted source (almost) working source
+for the exploit on XDA, and on the 5th it was added to Google's CTS tests.
